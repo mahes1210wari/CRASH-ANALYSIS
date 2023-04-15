@@ -4,4 +4,4 @@ Tableau Deshboard Link : https://public.tableau.com/views/Dashboard_168148511658
 
 Tableau Story Link : https://public.tableau.com/views/story_16814815475360/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
-Vedio Demonstration Link : https://drive.google.com/file/d/1IEoRi0UV0cBpBu70ocBccBafKoKLbJ9-/view?usp=drivesdk
+Video Demonstration Link : https://drive.google.com/file/d/1IEoRi0UV0cBpBu70ocBccBafKoKLbJ9-/view?usp=drivesdk
